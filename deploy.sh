@@ -8,3 +8,4 @@ kubectl apply -f k8s
 kubectl rollout restart deployment/client-deployment
 kubectl rollout restart deployment/server-deployment
 kubectl rollout restart deployment/worker-deployment
+echo nothing
